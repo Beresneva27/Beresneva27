@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
   <div id="badges">
     <a href="your-codepen-URL">
-      <img src="" alt="Codepen Badge"/>
+      <img src="https://codepen.io/Anna-Beresneva" alt="Codepen Badge"/>
     </a>
     <a href="your-codewars-URL">
-      <img src="https://www.codewars.com/users/BeresnevaHanna" alt="Codewars Badge"/>
+      <img src="https://www.codewars.com/users/Beresneva27" alt="Codewars Badge"/>
     </a>
     <a href="your-telegram-URL">
       <img src="https://web.telegram.org/a/#-4008871459" alt="Telegram Badge"/>
@@ -43,7 +43,7 @@ I'm a Frontend-Developer from Belarus
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="codepen" alt="codepen" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/coffeescript/coffeescript-original-wordmark.svg" title="coffeescript" alt="coffeescript" width="40" height="40"/>&nbsp;
+
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
