@@ -30,7 +30,7 @@ I'm a Frontend-Developer from Belarus
 
 - In my spare time, I travel, snowboard and play pool.
 
-- How to reach me: @BeresnevaAP.
+- How to reach me: beresneva.ap@yandex.ru.
 
 ---
 
