@@ -1,15 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
   <div id="badges">
-    <a href="your-codepen-URL">
+    
       <img src="https://codepen.io/Anna-Beresneva" alt="Codepen Badge"/>
-    </a>
-    <a href="your-codewars-URL">
       <img src="https://www.codewars.com/users/Beresneva27" alt="Codewars Badge"/>
-    </a>
-    <a href="your-telegram-URL">
-      <img src="https://web.telegram.org/a/#-4008871459" alt="Telegram Badge"/>
-    </a>
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt='telegram'/>](https://t.me/@BeresnevaAP))
+[<img src='https://img.shields.io/badge/Yandex-F7C601?style=for-the-badge&logo=yandexmail&logoColor=white' alt='mail'/>](mailto:beresneva.ap@yandex.ru)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='mail'/>](mailto:beresneva.ap1999@gmail.com)
+[<img alt="vk" src="https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white"/>](https://vk.com/missiya_blya))
   </div>
   <img src="https://komarev.com/ghpvc/?username=Beresneva27&style=flat-square&color=blue" alt=""/>
   <h1>
